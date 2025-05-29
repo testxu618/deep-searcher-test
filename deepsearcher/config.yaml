@@ -3,8 +3,8 @@ provide_settings:
     provider: "OpenAI"
     config:
       model: "o1-mini"
-#      api_key: "sk-xxxx"  # Uncomment to override the `OPENAI_API_KEY` set in the environment variable
-#      base_url: ""
+#      api_key: "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"  # Uncomment to override the `OPENAI_API_KEY` set in the environment variable
+#      base_url: "www.openai.com"
 
 #    provider: "DeepSeek"
 #    config:
